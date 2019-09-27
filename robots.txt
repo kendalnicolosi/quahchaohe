@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://koakagiik.stephenostrowski.com/sitemap.xml
